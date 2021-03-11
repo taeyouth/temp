@@ -8,7 +8,7 @@
 >Serialized on Naver Webtoon and serialized on Wednesdays and Saturdays.
 
 
-[This is his favorite webtoon page link.](https://comic.naver.com/webtoon/list.nhn?titleId=728015&weekday=sat)  
+[This is webtoon page link.](https://comic.naver.com/webtoon/list.nhn?titleId=728015&weekday=sat)  
 
 The main character of this webtoon is _Mozo_.  
 ![mozo](./123.jpg)  
