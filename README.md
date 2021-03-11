@@ -1,5 +1,5 @@
-## Who is TaeYeong?
-* He is _incinvibility_ and _god_,,
+## Introducing webtoon: Mojo's Journal  
+  ### Mojo's Journal is daily gag contents webtoon
  * also he is good at eating coffee.
  * extraordinary
 
