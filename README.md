@@ -1,6 +1,6 @@
 ## Introducing webtoon: Mojo's Journal  
   ### Mojo's Journal is daily gag contents webtoon
- * Recommended for these people:
+ * Recommended for these people:  
   _A person whose life is boring_  
   _Someone who needs laughter_
   
